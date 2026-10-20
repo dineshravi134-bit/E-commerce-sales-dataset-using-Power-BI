@@ -1,4 +1,4 @@
-# Power BI Assignment 1: Data Transformation & Data Modeling
+# Power BI: Data Transformation & Data Modeling
 
 ## Project Overview
 This project documents the end-to-end data preparation, cleaning, transformation, aggregation, and relational data modeling for an E-commerce sales dataset using **Power BI Desktop** and **Power Query Editor**.
