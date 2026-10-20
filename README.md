@@ -27,11 +27,11 @@ This project documents the end-to-end data preparation, cleaning, transformation
 ### 3. Conditional Column (`Profit Status`)
 - Added a conditional column evaluating profitability:
   - If `Profit < 0` $
-ightarrow$ **Loss** [cite: 17]
+rightarrow$ **Loss** [cite: 17]
   - If `Profit = 0` $
-ightarrow$ **Break-Even** [cite: 17]
+rightarrow$ **Break-Even** [cite: 17]
   - If `Profit > 0` $
-ightarrow$ **Profit** [cite: 17]
+rightarrow$ **Profit** [cite: 17]
 
 ### 4. Merging Data (Joins)
 - Performed a **Left Outer Join** between `List of Orders` and `Order Details` using **Order ID** as the matching key [cite: 17].
